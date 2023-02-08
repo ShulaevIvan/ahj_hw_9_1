@@ -1,0 +1,25 @@
+.app-container-callback {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+}
+.widget-wrap {
+    background-color: beige;
+}
+
+.widget-wrap {
+    width: 400px;
+    height: 400px;
+}
+
+.callback-btn {
+    width: 60px;
+    height: 60px;
+    border: 2px solid red;
+    border-radius: 50%;
+    background-color: red;
+}
+.callback-btn:hover {
+    cursor: pointer;
+}
